@@ -21,7 +21,7 @@ Este repositorio contiene las actividades realizadas durante el curso **Lenguaje
 - Manejo de errores de entrada
 - Validación con estructuras `if`, `try-catch`
 
-📁 Carpeta: `/Actividad1_CalculadoraIMC/`  
+📁 Carpeta: `/CalculadoraIMC/`  
 📄 Evidencias y descripción: Ver documentación dentro del proyecto
 
 ---
