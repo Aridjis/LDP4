@@ -26,9 +26,25 @@ Este repositorio contiene las actividades realizadas durante el curso **Lenguaje
 
 ---
 
-### 🔹 Actividad 2: [Título de la actividad]
+### 🔹 Actividad 2: Programa Banco Mexicano (Parte 1)
 
-🚧 **En desarrollo...**
+**Objetivo:**  
+Desarrollar un sistema bancario con interfaz gráfica que permita realizar depósitos y retiros, simulando operaciones básicas para los clientes de Banco Mexicano. Esta es la primera parte del proyecto; las opciones de “Saldo” y “Salir” se implementarán más adelante.
+
+**Tecnologías:**
+- Java 8
+- Swing (`JFrame`, `JTextField`, `JLabel`, `JButton`)
+- Apache NetBeans IDE 21
+
+**Características:**
+- Menú visual con botones
+- Ventanas para depósito y retiro
+- Validación de entradas numéricas
+- Mensajes dinámicos de error y confirmación
+- Retroalimentación del saldo disponible
+
+📁 Carpeta: `/BancoMexicano/`  
+📄 Evidencias y documentación: Incluidas dentro del proyecto
 
 ---
 
